@@ -12,7 +12,7 @@ Before doing anything, I recommend querying the camera and backing up the full c
 
 ## Automatically checking and fixing offline status
 
-![Screenshot of flow](/01 overall flow.png)
+![Screenshot of flow](https://raw.githubusercontent.com/bigmak40/projects/main/home%20assistant/node%20red/01%20overall%20flow.png)
 
 1. Inject Node
    * Set to repeat every 15 minutes; probably can run less often, but this is fine
