@@ -1,3 +1,3 @@
-# Network Projects
+#  Projects
 
-This is just a place to collect details of various projects, mostly network related.
+This is just a place to collect details of things I've worked on, mostly related to networking, Home Assistant, and 3d printing.
