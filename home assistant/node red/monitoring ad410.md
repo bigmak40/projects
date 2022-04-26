@@ -12,6 +12,8 @@ Before doing anything, I recommend querying the camera and backing up the full c
 
 ## Automatically checking and fixing offline status
 
+![Screenshot of flow](/01 overall flow.png)
+
 1. Inject Node
    * Set to repeat every 15 minutes; probably can run less often, but this is fine
 2. HTTP Request Node
